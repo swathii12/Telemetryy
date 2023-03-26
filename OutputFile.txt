@@ -1,0 +1,4 @@
+deviceId , TelemetrySequenceNumber, EventType, TelemetryData
+00004,26,time,003PERCT30
+00001,26,Temperature,005PERCT30
+00001,27,battery,001PERCT80
